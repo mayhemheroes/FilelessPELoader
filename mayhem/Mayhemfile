@@ -1,0 +1,5 @@
+project: filelesspeloader
+target: fuzzme
+
+cmds:
+  - cmd: /fuzzme @@
