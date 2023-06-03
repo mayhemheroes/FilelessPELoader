@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.16)
-project(filelesspeloader)
+project(FilelessPELoader)
 
 add_executable(fuzzme fuzzme.c)
 
